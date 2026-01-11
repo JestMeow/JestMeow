@@ -1,6 +1,5 @@
-⌜Introduction🤓⌟
 ────────────────────
-Some dude who likes Minecraft, Music and Maths (and maybe Computer Science)
+Some dude who likes Minecraft
 
 I'm currently still learning so my repositories might have bad code.
 
