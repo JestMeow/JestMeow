@@ -1,4 +1,6 @@
 ---
+**Life is hard. Hard is life.**
+
 I'm currently still learning so my repositories might contain inconsistent code.
 
 
