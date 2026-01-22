@@ -1,7 +1,7 @@
 ---
-**Life is hard. Hard is life.**
+**Yo...**
 
-I'm currently still learning so my repositories might contain inconsistent code.
+I'm currently still learning so my repositories might contain some inconsistent code.
 
 
 
